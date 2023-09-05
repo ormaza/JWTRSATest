@@ -1,0 +1,36 @@
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\jwt.exe
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\jwt.deps.json
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\jwt.runtimeconfig.json
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\jwt.dll
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\jwt.pdb
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.csproj.AssemblyReference.cache
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.AssemblyInfoInputs.cache
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.AssemblyInfo.cs
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.csproj.CoreCompileInputs.cache
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.dll
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\refint\jwt.dll
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.pdb
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.genruntimeconfig.cache
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\ref\jwt.dll
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\ormaz\source\repos\jwt\jwt\bin\Debug\net6.0\jose-jwt.dll
+C:\Users\ormaz\source\repos\jwt\jwt\obj\Debug\net6.0\jwt.csproj.CopyComplete
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\jwt.exe
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\jwt.deps.json
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\jwt.runtimeconfig.json
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\jwt.dll
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\jwt.pdb
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\bin\Debug\net6.0\jose-jwt.dll
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.csproj.AssemblyReference.cache
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.AssemblyInfoInputs.cache
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.AssemblyInfo.cs
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.csproj.CoreCompileInputs.cache
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.csproj.CopyComplete
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.dll
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\refint\jwt.dll
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.pdb
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\jwt.genruntimeconfig.cache
+C:\Users\ormaz\Desktop\Github\JWT RSA\jwt\obj\Debug\net6.0\ref\jwt.dll
